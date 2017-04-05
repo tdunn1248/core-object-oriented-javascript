@@ -51,21 +51,21 @@ Your objectives for the day is to:
 
 ## Day 3: Prototype and Inheritance
 
-- [ ] Watch these videos on Prototypes:
+- [X] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
   - https://shereef.wistia.com/medias/ednchu35gz
   - https://shereef.wistia.com/medias/yejzrin760
   - https://shereef.wistia.com/medias/372u07ybvu
   - https://shereef.wistia.com/medias/xxj6323pk9
-- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-- [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+- [X] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [X] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [X] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [X] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 ### Stretch
 
-- [ ] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
-- [ ] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+- [X] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
+- [X] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 - [ ] Read sections 7 in [JS Ninja](ninja)
 - [ ] Do exercises for Chapter 5 of [Object Oriented Javascript][oojs] (and maybe read it)
 - [ ] Do exercises for Chapter 6 of [Object Oriented Javascript][oojs] (and maybe read it)
