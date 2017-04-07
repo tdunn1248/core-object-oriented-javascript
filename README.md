@@ -13,7 +13,11 @@ Your objectives for the day is to:
 
 ### Scopes
 
+<<<<<<< HEAD
 - [X] Watch these videos on Type and Scope
+=======
+- [X ] Watch these videos on Type and Scope
+>>>>>>> 9403b6a1120dee2e4f07e00598f2e8e9d1c1f3c7
   - https://shereef.wistia.com/medias/mlnjxm9z9s
   - https://shereef.wistia.com/medias/hn99v12lkr
   - https://shereef.wistia.com/medias/6snmj6es7v
@@ -23,14 +27,22 @@ Your objectives for the day is to:
 
 ### Closures
 
+<<<<<<< HEAD
 - [X] Complete the [Closures lesson][udacity]
+=======
+- [X ] Complete the [Closures lesson][udacity]
+>>>>>>> 9403b6a1120dee2e4f07e00598f2e8e9d1c1f3c7
 
 ## Day 2: Objects and "this"
 
 ### Objects
 
 - [X] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
+<<<<<<< HEAD
 - [X ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+=======
+- [X] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+>>>>>>> 9403b6a1120dee2e4f07e00598f2e8e9d1c1f3c7
 - [X] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
 - [X] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
 - [X] Skim this [cheat sheet][cheat]
@@ -46,8 +58,8 @@ Your objectives for the day is to:
 
 ### Stretch
 
-- [ ] Do exercises for Chapter 4 of [Object Oriented Javascript][oojs] (and maybe read it)
-- [ ] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
+- [X] Do exercises for Chapter 4 of [Object Oriented Javascript][oojs] (and maybe read it)
+- [X] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
 
 ## Day 3: Prototype and Inheritance
 
@@ -64,8 +76,13 @@ Your objectives for the day is to:
 
 ### Stretch
 
+<<<<<<< HEAD
 - [X`] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
 - [X] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+=======
+- [X] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
+- [ ] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+>>>>>>> 9403b6a1120dee2e4f07e00598f2e8e9d1c1f3c7
 - [ ] Read sections 7 in [JS Ninja](ninja)
 - [ ] Do exercises for Chapter 5 of [Object Oriented Javascript][oojs] (and maybe read it)
 - [ ] Do exercises for Chapter 6 of [Object Oriented Javascript][oojs] (and maybe read it)
