@@ -41,8 +41,8 @@ Your objectives for the day is to:
   - https://shereef.wistia.com/medias/wfybhl2nmr
   - https://shereef.wistia.com/medias/kqbedkmm13
 - [X] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
-- [ ] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
-- [ ] Complete the [Keyword "this" lesson][udacity]
+- [X] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
+- [X] Complete the [Keyword "this" lesson][udacity]
 
 ### Stretch
 
@@ -51,33 +51,33 @@ Your objectives for the day is to:
 
 ## Day 3: Prototype and Inheritance
 
-- [ ] Watch these videos on Prototypes:
+- [X] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
   - https://shereef.wistia.com/medias/ednchu35gz
   - https://shereef.wistia.com/medias/yejzrin760
   - https://shereef.wistia.com/medias/372u07ybvu
   - https://shereef.wistia.com/medias/xxj6323pk9
-- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-- [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+- [X] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [X] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [X] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [X] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 ### Stretch
 
-- [ ] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
-- [ ] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+- [X`] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
+- [X] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 - [ ] Read sections 7 in [JS Ninja](ninja)
 - [ ] Do exercises for Chapter 5 of [Object Oriented Javascript][oojs] (and maybe read it)
 - [ ] Do exercises for Chapter 6 of [Object Oriented Javascript][oojs] (and maybe read it)
 
 ## Day 4: Deeper Dive and Final Project
 
-- [ ] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
-- [ ] Complete the [Functional Classes][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
-- [ ] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
+- [X] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
+- [X] Complete the [Functional Classes][udacity] Lesson on Udacity
+- [X] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
+- [X] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
+- [X] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
+- [X] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
 
 ## Day 5: Final Project and check your understanding
 
